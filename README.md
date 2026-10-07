@@ -159,17 +159,7 @@ More projects coming soon...
 </p>
 ```
 
-### One thing I'd change later
 
-Don't leave **"Projects — coming soon"** there for months. Your GitHub will look empty despite the fancy README.
-
-For a **1st-semester BITM student**, even 3 small projects are enough to make it substantially better:
-
-* 🧮 **Simple Calculator**
-* 📝 **Student Management System**
-* 🌐 **Personal Portfolio Website**
-
-Once you give me the **actual languages you're learning right now** and any projects you've made, I can replace the generic parts with your real information and make the profile look much more impressive without lying about your skills.
 
 
 <!--
