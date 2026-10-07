@@ -1,21 +1,4 @@
 ## Hi, Its me Samm👋
-````markdown
-<!-- Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Samm-Karkeyyy&color=00C9A7" alt="Profile Views" />
-</p>
-
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=750&lines=👋+Hi%2C+I'm+Samip;🎓+BITM+Student;💻+Aspiring+Tech+Professional;🚀+Building+My+Future+in+Tech;🌱+Always+Learning" alt="Typing SVG" />
-</h1>
-
-<!-- Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7F8C8D&center=true&vCenter=true&width=650&lines=BITM+1st+Semester+Student;Thames+International+College;Technology+%7C+Business+%7C+Innovation" alt="Typing SVG" />
-</p>
-
----
 
 ## 👨‍💻 About Me
 
