@@ -1,4 +1,4 @@
-## Hi, Its me Samm👋
+## Hey, Its me Samm👋
 
 ## 👨‍💻 About Me
 
