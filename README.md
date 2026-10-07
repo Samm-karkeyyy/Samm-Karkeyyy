@@ -1,5 +1,5 @@
 
-## Hey, Its me Samm👋
+## Hey, Its me Samip Karki👋
 
 ## 👨‍💻 About Me
 
